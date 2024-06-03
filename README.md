@@ -6,7 +6,7 @@ To run the Web Application on your local system download Node.js - https://nodej
 ## npm install
 1. Open the terminal and type in `npm install`, to install all the dependencies.
 2. Run: `npm start`
-3. Open [http://localhost:5000](http://localhost:8000) to view it in the browser.
+3. Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ### 🚩 Building project :
 ## 1. npm init
