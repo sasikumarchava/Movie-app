@@ -1,10 +1,8 @@
 # Movie Library WebApp
 
 #Demo
-
-<img width="949" alt="Screenshot 2024-06-04 120504" src="https://github.com/sasikumarchava/Movie-app/assets/88151734/cbad64b2-61fd-413b-8a2a-3f4efaf7cc20">
-
 <img width="959" alt="Screenshot 2024-06-04 120930" src="https://github.com/sasikumarchava/Movie-app/assets/88151734/91ba0006-6a56-463c-b6cf-832a248a1ac0">
+<img width="949" alt="Screenshot 2024-06-04 120504" src="https://github.com/sasikumarchava/Movie-app/assets/88151734/cbad64b2-61fd-413b-8a2a-3f4efaf7cc20">
 <img width="944" alt="Screenshot 2024-06-04 120819" src="https://github.com/sasikumarchava/Movie-app/assets/88151734/b77697ca-1d10-4e8c-8c11-dc7da1fbff8b">
 <img width="945" alt="Screenshot 2024-06-04 120856" src="https://github.com/sasikumarchava/Movie-app/assets/88151734/9b5f7208-b32f-4fe2-8ecf-47d57f3cc496">
 
