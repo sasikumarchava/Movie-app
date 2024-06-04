@@ -4,7 +4,8 @@
 To run the Web Application on your local system download Node.js - https://nodejs.org/en/download/ . This will give you access to the node package manager which is essential to run the project .
 
 ## npm install
-1. Open the terminal and type in `npm install`, to install all the dependencies.
+1. Open the terminal and type in `npm install`, to install all the dep<img width="949" alt="Screenshot 2024-06-04 120504" src="https://github.com/sasikumarchava/Movie-app/assets/88151734/cbad64b2-61fd-413b-8a2a-3f4efaf7cc20">
+endencies.
 2. Run: `npm start`
 3. Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
 
